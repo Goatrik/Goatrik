@@ -1,7 +1,5 @@
 ![Profile Image](https://raw.githubusercontent.com/Goatrik/Goatrik/main/github_profileru.png)
 
-# Hi, I am GoatrikWorks 👋
-
 Full Stack Developer & DevOps Specialist.
 
 ---
