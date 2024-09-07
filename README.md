@@ -1,14 +1,14 @@
 ![Profile Image](https://raw.githubusercontent.com/Goatrik/Goatrik/main/github_profileru.png)
 
-Full Stack Developer & DevOps Specialist.
+Full Stack Dev & DevOps. I build web stuff.
 
 ---
 
-### Skills:
-- Backend: Laravel, Node.js
-- Frontend: React, Vue.js
-- Databases: MySQL, PostgreSQL
-- DevOps: Docker, CI/CD
+### What I use:
+- Laravel, Node.js
+- React, Vue.js
+- MySQL, PostgreSQL
+- Docker, CI/CD
 
 ---
 
